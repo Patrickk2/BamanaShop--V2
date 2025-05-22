@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PHP](https://img.shields.io/badge/PHP-Ready-blue)
 
-> 🚧 Ce projet est en cours de développement. Il s’agit de la **suite logique de [BamanaShop](https://github.com/Patrickk2/BamanaShop--V2)**, avec cette fois l’intégration de **PHP** côté back-end.
+> 🚧 Ce projet est en cours de développement. Il s’agit de la **suite logique de [BamanaShop]([https://github.com/Patrickk2/BamanaShop--V2](https://github.com/Patrickk2/BamanaShop))**, avec cette fois l’intégration de **PHP** côté back-end.
 
 ## 📌 Présentation
 
